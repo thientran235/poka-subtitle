@@ -1,0 +1,26 @@
+#poka-subtitle {
+    border-color: #dfdfdf;
+    color: #333333;
+    font-size: 1.4em;
+    line-height: 30px;
+    margin: 5px 0 5px;
+    padding: 2px 8px 2px 8px;
+    width: 100%;
+}
+
+#poka-subtitle:focus {
+	border-color: #aaa;
+}
+
+#poka-subtitle::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #bbb;
+}
+#poka-subtitle:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    #bbb;
+}
+#poka-subtitle::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #bbb;
+}
+#poka-subtitle:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    #bbb;
+}
